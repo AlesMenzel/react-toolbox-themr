@@ -7,7 +7,7 @@
 A command line tool to help you extract [react-toolbox](http://react-toolbox.com) style modules to static files so you can integrate it in nearly any stack.
 
 ```
-$ yarn add --dev react-toolbox-themr react-toolbox@2.0.0-beta.6
+$ yarn add --dev react-toolbox-themr react-toolbox@^2.0.0-beta.8
 ```
 
 Note it only works with **React Toolbox 2.0 beta**. The output path shown in the GIF is outdated, now by default the assets are generated at `src/toolbox`.
